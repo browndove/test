@@ -5,7 +5,8 @@ import ParticlesComponent from "./components/Particles";
 function App() {
   return (
     <div className="App">
-     <ParticlesComponent id="particles" />
+     <ParticlesComponent
+      id="particles" />
     </div>
   );
 }
